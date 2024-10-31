@@ -6,9 +6,9 @@ I’m a Software Engineering Graduate with a passion for building innovative sol
 Let’s connect and create something amazing together!🚀
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehaniFernando&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="ShehaniFernando" /></p> <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShehaniFernando&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ShehaniFernando" /></p> <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehaniFernando&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ShehaniFernando" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehaniFernando&show_icons=true&locale=en&layout=compact&bg_color=f0f3f7" alt="ShehaniFernando" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShehaniFernando&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=f0f3f7" alt="ShehaniFernando" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehaniFernando&theme=black-ice&hide_border=true&stroke=0000&background=f0f3f7" alt="ShehaniFernando" /></p>
 <br>
 
 ## Social Media Links
