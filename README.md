@@ -1,14 +1,15 @@
 ## Hi 👋, I'm Shehani Fernando👩‍💻
 
-<img align="left" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=826" width="60" height="60"/>  
+<img align="left" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=826" width="100" height="100"/>  
 
 I’m a Software Engineering Graduate with a passion for building innovative solutions👩‍🎓. Dedicated in improving the knowledge and skills in the IT industry💻. Eagerly seeking opportunities to enhance my capabilities while contributing to the growth and success of an organization🙇‍♀️.
 Let’s connect and create something amazing together!🚀
 
-</br>
-![Shehani Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehaniFernando&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniFernando&layout=compact)](https://github.com/ShehaniFernando/github-readme-stats)
-</br>
+<br><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShehaniFernando&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ShehaniFernando" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehaniFernando&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ShehaniFernando" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehaniFernando&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="ShehaniFernando" /></p>
 
 ## Social Media Links
 
